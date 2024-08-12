@@ -1,25 +1,22 @@
-[{
-  "id": "b75d9787-ab35-45a3-8d1c-e865d9d244ea",
-  "name": "Sai Ashish",
-  "shortName": "Sai",
-  "phoneNumber": "+91 8920125544",
-  "address": [
-    {
-      "type": "Home",
-      "name": "Sai Ashish",
-      "phoneNumber": "+91 8920125544",
-      "locality": "R.K. Puram",
-      "city": "New Delhi",
-      "state": "Delhi",
-      "country": "India",
-      "pinCode": "110067"
-    }
-  ],
-  "profilePicture": "https://avatars.githubusercontent.com/u/43849911?v=4",
-  "appliedCoupons": [
-    {
-      "id": "b09ad623-189b-4ccd-b0c1-cd9eecb0c20e",
-      "orderId": "04bdec52-6653-46da-8e9b-7a0ff0af469d"
-    }
-  ]
-}]
+[
+  {
+    "id": "b75d9787-ab35-45a3-8d1c-e865d9d244ea",
+    "name": "Sai Ashish",
+    "shortName": "Sai",
+    "phoneNumber": "+91 8920125544",
+    "address": [
+      {
+        "type": "Home",
+        "name": "Sai Ashish",
+        "phoneNumber": "+91 8920125544",
+        "locality": "R.K. Puram",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "pinCode": "110067"
+      }
+    ],
+    "profilePicture": "https://avatars.githubusercontent.com/u/43849911?v=4",
+    "appliedCoupons": []
+  }
+]
