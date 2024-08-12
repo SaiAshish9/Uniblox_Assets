@@ -1,0 +1,13 @@
+{
+  "id": "",
+  "name": "",
+  "phoneNumber": "",
+  "address": "",
+  "profilePicture": "",
+  "appliedCoupons": [
+    {
+      "id": "",
+      "orderId": ""
+    }
+  ]
+}
