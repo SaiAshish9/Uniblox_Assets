@@ -20,5 +20,1105 @@
         "applicableTo": [
             "all"
         ]
+    },
+    {
+        "id": "QF5W4VE12T",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AXGV5H5AUL",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "CP5M60TY52",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "7DRA9K1XRW",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "OHK98HCGKT",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "0HZKDR4X4R",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AF4N5SPAT4",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "KAYE11AE8X",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "5UFXABQ5LI",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "CH1TGR0QDK",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "UFS9C0DOLO",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "CKS69OLR6Q",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "KH394O8292",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "XPPKC7QZM9",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "MJ81CUWNZU",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "V98B46UBQQ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "4CMRQSSYP3",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "PGSW3KPA7Z",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "XYWY7TV8K0",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "50FC4ML130",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "M07TX9ZI9J",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "L2830HDT8I",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "6M96XCDOW4",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "OVPCUG1UXM",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "UBPLMLBOT0",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "HL8E1664CI",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "9ZE4GGX7GI",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "9Q2A9MR5H2",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "879DQ2UN39",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "X5OQJU41TV",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "WMSU79CHK2",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "4P6C5U438S",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "DQKQ83HUXQ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "XJQUR4FLZL",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "0HH6F2PVOP",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "WIA7HPZ4MG",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "MOH0EIBEIW",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AVEVI4X6X2",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "LA3DGEP4AP",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "RILGTOEUGI",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "JL35Y993M8",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "EE2RN7KJKJ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "B1O3OX0YB9",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "QND23F8MQG",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "7YV2S3JB77",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "PVKYMQB3TT",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "L06R61LW4T",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "XJFV4EJI2J",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "LIQ53763LP",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "73AKRQ8EMB",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "QB5JP7DNBJ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "GSHET0ICM9",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "SJJQKUFCM4",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "C1QDDI482H",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "YKEJ86NFXA",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "Q5IFB2IVX8",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "8TQYKFBPKL",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "XWM2IOASXP",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "2GU21W7GPJ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "JK1D83Q5QT",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "PBUU58Y91E",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TEW8BOFAO1",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "MAPGZW4Q0R",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "IUOBE4BEDJ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "UM989LZPSV",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "GV6X0M68WW",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AR9HBXLXAR",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "VBTEKKH3HF",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "OEB9QGE4SG",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "WWL5LJ4O1E",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AU5SZUV0SM",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TDHUALIDUL",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "KJHBJAPKLO",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "BOU6UGYX1F",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "5U9VIRIEI4",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TZXTWDKHAK",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "PLG8ZR67DM",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "HFJ15R4FVO",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TYVF2HY5QG",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "AX8DR5KUIS",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "98K2V4JV3V",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "EXVZN1641E",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "R49LSH4DHQ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "ZXB4UK6WG3",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "HGHR8ZSKP1",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "EWUZ926SRE",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "8IZLJSSWYK",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TVNIG7XYDQ",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "9AO7NVBR0E",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TYR7GHVRGR",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "TLTVHU39IG",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "2Z27VZA630",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "08VHZ2S5HE",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "F8QAHDCFCY",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "76P7SDHMKP",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "YSZFT1JMN8",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "3E125P446C",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "6NE340MGBH",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "ZE1L29O3PK",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
+    },
+    {
+        "id": "O1DVMNH1QX",
+        "discountPercentage": 10,
+        "expirationDate": "2024-12-31T00:00:00.000Z",
+        "maxUses": 100,
+        "currentUses": 50,
+        "applicableTo": [
+            "electronics",
+            "clothing"
+        ]
     }
 ]
