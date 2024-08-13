@@ -1,3 +1,61 @@
 [
-    
+    {
+        "cart": [
+            {
+                "id": "15fe9c17-f584-430b-9eb8-ce252672f3e1",
+                "img": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/24749990/2023/9/19/650927a1-db4b-4c07-bbe4-585b9873b5e01695108725715-Mast--Harbour-Men-Shirts-591695108725204-1.jpg",
+                "title": "Mast & Harbour",
+                "desc": "Opaque Casual Shirt",
+                "size": "38",
+                "price": "Rs. 679",
+                "per": "(66% OFF)",
+                "strikePrice": "Rs. 1999",
+                "count": "245",
+                "rating": "4.2",
+                "qty": 8
+            },
+            {
+                "id": "59fbe507-4946-42c3-a2bc-167f673c5aaf",
+                "img": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg",
+                "title": "Mast & Harbour",
+                "desc": "Checked Regular Casual Sustainable Shirt",
+                "size": "40",
+                "price": "Rs. 599",
+                "per": "(70% OFF)",
+                "strikePrice": "Rs. 1999",
+                "count": "3.9k",
+                "rating": "4.2",
+                "qty": 1
+            },
+            {
+                "id": "84fd9909-1d7e-4914-9d4f-a2fab700b8e6",
+                "img": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/26016526/2023/12/8/c255c17e-4614-4d98-bfca-b3d6f0f417261702033458056-Men-Grey--White-Slim-Fit-Striped-Shirt-9821702033457724-1.jpg",
+                "title": "Mast & Harbour",
+                "desc": "Pure Cotton Casual Shirt",
+                "size": "40",
+                "price": "Rs. 545",
+                "per": "(74% OFF)",
+                "strikePrice": "Rs. 2099",
+                "count": "408",
+                "rating": "4.3",
+                "qty": 1
+            }
+        ],
+        "amount": 6576,
+        "totalDiscountOnMRP": 13514,
+        "coupon": {
+            "id": "DISCOUNT10",
+            "discountPercentage": 10,
+            "expirationDate": "2024-12-31T00:00:00.000Z",
+            "maxUses": 100,
+            "currentUses": 50,
+            "applicableTo": [
+                "electronics",
+                "clothing"
+            ]
+        },
+        "totalAmount": "5918.40",
+        "orderId": "AEnxJMJmUqqX3lrwmFP58",
+        "userId": "b75d9787-ab35-45a3-8d1c-e865d9d244ea"
+    }
 ]
